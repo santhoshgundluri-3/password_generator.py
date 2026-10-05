@@ -1,5 +1,4 @@
-# 🔐 Password Generator 
-🎓 Oasis Infobyte Internship — Project 3 Project: **password generator** Internship: Python Programming Internship — Oasis Infobyte
+# 🔐 Password Generator — Oasis Infobyte Project 3
 
 A simple and secure **Python-based Password Generator** that generates strong, random passwords using uppercase letters, lowercase letters, numbers, and special characters.
 
